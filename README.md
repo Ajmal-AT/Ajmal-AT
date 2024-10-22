@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Ajmal-AT
-- 👀 I’m interested in JAVA...
-- 🌱 I’m currently learning Software Developing...
-- 💞️ I’m actively looking for work as Java Developer...
-- 📫 How to reach me ajmalateranzhiyil@gmail.com
+# 👋 Hi, I’m Ajmal AT
+
+## 👀 About Me
+I'm a passionate Java Developer with a strong interest in software development. I am continuously learning and growing in my field.
+
+## 🌱 Current Focus
+I'm currently honing my skills in Java and exploring various technologies related to software development.
+
+## 💞️ Career Goals
+I am actively seeking opportunities as a Java Developer to apply my knowledge and contribute to innovative projects.
+
+## 📫 Get in Touch
+Feel free to reach out to me at [ajmalateranzhiyil@gmail.com](mailto:ajmalateranzhiyil@gmail.com).
 
 <!---
 Ajmal-AT/Ajmal-AT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
