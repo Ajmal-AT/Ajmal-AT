@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Ajmal AT**  
 
 ## 👀 About Me  
-💻 **Java Software Engineer** | Passionate about **Backend Development & Scalable Systems**  
+💻 **Software Engineer** | Passionate about **Backend Development & Scalable Systems**  
 🚀 Enthusiastic about **Java, Spring Boot, Microservices, and API Development**  
 
 ## 🌱 Currently Exploring  
