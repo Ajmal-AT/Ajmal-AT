@@ -1,18 +1,18 @@
-# 👋 Hi, I’m Ajmal AT
+# 👋 Hi, I’m **Ajmal AT**  
 
-## 👀 About Me
-I'm a passionate Java Software Engineer with a strong interest in software development. I am continuously learning and growing in my field.
+## 👀 About Me  
+💻 **Java Software Engineer** | Passionate about **Backend Development & Scalable Systems**  
+🚀 Enthusiastic about **Java, Spring Boot, Microservices, and API Development**  
 
-## 🌱 Current Focus
-I'm currently honing my skills in Java and exploring various technologies related to software development.
+## 🌱 Currently Exploring  
+🔹 Advanced **Java Performance Optimization**  
+🔹 **Database Design & Optimization** (PostgreSQL, MySQL)  
+🔹 **System Design & Scalable Architectures**  
 
-## 💞️ Career Goals
-I am actively seeking opportunities as a Java Software Engineer to apply my knowledge and contribute to innovative projects.
+## 💼 Career Goals  
+🎯 Seeking opportunities to **build high-performance applications** and contribute to **innovative projects**.  
 
-## 📫 Get in Touch
-Feel free to reach out to me at [ajmalateranzhiyil@gmail.com](mailto:ajmalateranzhiyil@gmail.com).
-
-<!---
-Ajmal-AT/Ajmal-AT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Get in Touch  
+📧 Email: [ajmalateranzhiyil@gmail.com](mailto:ajmalateranzhiyil@gmail.com)  
+🔗 GitHub: [@Ajmal-AT](https://github.com/Ajmal-AT)  
+🔗 LinkedIn: [Ajmal AT](https://www.linkedin.com/in/ajmal-at/)  
